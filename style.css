@@ -1,0 +1,132 @@
+body {
+    font-family: sans-serif;
+    background-color: #E06969;
+}
+
+header {
+    justify-content: space-between;
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: black;
+}
+
+.button {
+    background-color: #36bbce;
+    color: black;
+    width: 80px;
+    text-decoration: none;
+    padding: 15px;
+    font-size: 24px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: flex-end;
+    margin-left: 550px;
+}
+
+nav {
+    border-top: 5px solid white;
+    border-bottom: 5px solid white;
+    padding: 25px 100px 25px 95px;
+    justify-content: space-between;
+    border-top: solid black;
+    border-bottom: solid black;
+}
+
+.nav-link {
+    font-size: 24px;
+    color: black;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    justify-content: space-between;
+    color: #FFFFFF;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 36px;
+    margin-top: ;
+    margin-bottom: ;
+}
+
+p {
+    font-size: 24px;
+}
+
+.info {
+    flex-wrap: wrap;
+    width: 1100px;
+    margin: 0px;
+    display: flex;
+}
+
+article {
+    background-color: white;
+    padding: 15px;
+    width: 400px;
+    margin: 17px;
+    text-align: center;
+}
+
+.article-but1 {
+    text-decoration: none;
+    background-color: #A1652D;
+    color: white;
+    font-size: 24px;
+    text-align: center;
+    padding: 10px 75px 10px 75px;
+    display: flex;
+}
+
+.article-but2 {
+    text-decoration: none;
+    background-color: #33AA00;
+    color: white;
+    font-size: 24px;
+    text-align: center;
+    padding: 10px 75px 10px 75px;
+    display: flex;
+}
+
+.article-but3 {
+    text-decoration: none;
+    background-color: #AC1313;
+    color: white;
+    font-size: 24px;
+    text-align: center;
+    padding: 10px 75px 10px 75px;
+    display: flex;
+}
+
+.article-but4 {
+    text-decoration: none;
+    background-color: #86E7E7;
+    color: white;
+    font-size: 24px;
+    text-align: center;
+    padding: 10px 75px 10px 75px;
+    display: flex;
+}
+
+footer {
+    background-color: #AC13A6;
+    padding: ;
+}
+
+footer a {
+    margin-right: ;
+}
+
+footer p {
+    font-size: 24px;
+    margin-left: 400px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.ass {
+    display: flex;
+    flex-wrap: wrap;
+}
